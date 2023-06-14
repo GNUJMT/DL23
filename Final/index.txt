@@ -1,0 +1,9 @@
+
+String manipulation 6A part 1
+txt to tts          DLW14A
+qr code generator https://github.com/MK316/Spring2023/blob/main/QRcode.ipynb
+
+nltk
+gradio
+#@markdown
+%%capture
